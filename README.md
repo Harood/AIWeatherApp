@@ -1,12 +1,32 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## ✅ README for **AI Weather App with Gemini**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```md
+# AI Weather Summary App ⛅
 
-## Expanding the ESLint configuration
+A weather app powered by OpenWeather API and Google Gemini AI to provide smart, human-like weather summaries for any city.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- Search for current weather by city name
+- Displays temperature, humidity, wind, and condition
+- AI-generated one-line weather summary using Gemini
+- Responsive and stylish UI with weather icons
+
+## 🛠️ Technologies Used
+
+- React.js
+- OpenWeather API
+- Gemini AI API
+- Axios
+- Tailwind CSS
+
+## ⚙️ How to Run
+
+```bash
+git clone https://github.com/YOUR_USERNAME/WeatherApp-AI.git
+cd WeatherApp-AI
+npm install
+npm run dev
