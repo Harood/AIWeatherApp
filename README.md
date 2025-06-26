@@ -24,7 +24,7 @@ A weather app powered by OpenWeather API and Google Gemini AI to provide smart, 
 - Tailwind CSS
 
 ## ScreenShots
-<img width="532" alt="weayhetr" src="https://github.com/user-attachments/assets/24c10d96-4a72-484a-8f57-261fdf097bfe" />
+![App Screenshot](public/weahyter.png)
 
 ## ⚙️ How to Run
 
